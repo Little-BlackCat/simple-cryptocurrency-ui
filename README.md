@@ -30,4 +30,4 @@ The project should open in your default web browser, and you can interact with t
 
 ## Note!!!
 
-This project is intentionally kept simple for the purpose of testing the API system of the cryptocurrencies-exchange project. Therefore, buying and selling cryptocurrencies will be done under the same user ID, and transactions will be executed at a fixed price of 0.001. This UI serves as a demonstration of the basic functionality provided by the cryptocurrencies-exchange API.
+This project is intentionally kept simple for the purpose of testing the API system of the cryptocurrencies-exchange project. Therefore, buying and selling cryptocurrencies will be done under the same user ID, and transactions will be executed at a fixed price of 0.0001. This UI serves as a demonstration of the basic functionality provided by the cryptocurrencies-exchange API.
